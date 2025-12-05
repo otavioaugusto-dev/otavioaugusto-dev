@@ -1,6 +1,6 @@
 # otavioaugusto-dev
 # Hello! 👋 Welcome to my GitHub Profile!
-
+I'm a beginner software developer who loves programming and technology, and I'm currently studying Computer Engineering. This repo is where I learn, build, and level up as a developer.
 ## Languages, Tools & Technologies
 
 <div align="center">
